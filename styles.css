@@ -1,0 +1,8 @@
+article{
+    dispay: flex;
+    flex-direction: column;
+    background-color: darkgreen;
+    color: hotpink;
+    border:4px;
+    border-color: black;
+}
